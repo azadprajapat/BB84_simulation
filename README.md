@@ -1,6 +1,6 @@
 # BB84_simulation
 
-A project to perform Quantum Key Distribution (QKD) using the BB84 protocol.
+A project focused on implementing Quantum Key Distribution (QKD) and simulating the probability of eavesdroppers intercepting the key undetected, utilizing the BB84 protocol.
 
 ## Overview
 
@@ -10,11 +10,4 @@ Quantum Key Distribution (QKD) is a technique that leverages the principles of q
 ### Reference
 
 The simulation and methodology follow principles outlined in *Quantum Computation and Quantum Information* by Michael A. Nielsen and Isaac L. Chuang. 
-
-## Implementation Details
-
-- **Simulation Steps**:
-  - Generation of random bit sequences.
-  - Application of quantum state preparation and measurement functions.
-  - Basis comparison and error-checking algorithms.
 
